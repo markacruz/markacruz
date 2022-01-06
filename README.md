@@ -1,4 +1,4 @@
-```
+```javascript
 class MarkAngeloCruz {
  constructor() {
   this.Age = 19;
