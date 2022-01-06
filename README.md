@@ -8,10 +8,9 @@ class MarkAngeloCruz {
                     "Space Exploration", 
                     "Working Out"];
   this.Contacts = { contacts:
-                   { 
-                     personalEmail: "markaycruz@gmail.com", 
+                   { personalEmail: "markaycruz@gmail.com", 
                      schoolEmail: "cruzm9@mcmaster.ca", 
-                     linkedIn: "Mark Angelo Cruz"
+                     linkedIn: "Mark Angelo Cruz" }
                    };
   this.Message = "I am willing to collaborate on a project!";                  
  };
