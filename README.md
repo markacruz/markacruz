@@ -6,7 +6,7 @@ class MarkAngeloCruz {
   this.Interests = [ "Web Development",
                     "Programming", 
                     "Space Exploration", 
-                    "Working Out"];
+                    "Working Out" ];
   this.Contacts = { contacts:
                    { personalEmail: "markaycruz@gmail.com", 
                      schoolEmail: "cruzm9@mcmaster.ca", 
