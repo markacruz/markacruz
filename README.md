@@ -12,7 +12,8 @@ class MarkAngeloCruz {
                      personalEmail: "markaycruz@gmail.com", 
                      schoolEmail: "cruzm9@mcmaster.ca", 
                      linkedIn: "Mark Angelo Cruz"
-                   }
- }
+                   };
+  this.Message = "I am willing to collaborate on a project!";                  
+ };
 };
 ```
