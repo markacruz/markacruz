@@ -11,7 +11,7 @@ class MarkAngeloCruz {
                    { 
                      personalEmail: "markaycruz@gmail.com", 
                      schoolEmail: "cruzm9@mcmaster.ca", 
-                     linkedIn: Mark Angelo Cruz
+                     linkedIn: "Mark Angelo Cruz"
                    }
  }
 };
