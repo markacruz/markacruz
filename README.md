@@ -10,7 +10,7 @@ class MarkAngeloCruz {
   this.Contacts = { contacts:
                    { personalEmail: "markaycruz@gmail.com", 
                      schoolEmail: "cruzm9@mcmaster.ca", 
-                     linkedIn: "Mark Angelo Cruz" }
+                     linkedIn: "linkedin.com/in/mark-a-cruz" }
                    };
   this.Message = "I am willing to collaborate on a project!";                  
  };
