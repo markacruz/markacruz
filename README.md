@@ -12,7 +12,6 @@ class MarkAngeloCruz {
                      schoolEmail: "cruzm9@mcmaster.ca", 
                      linkedIn: "linkedin.com/in/mark-a-cruz" }
                    };
-  this.Message = "I am currently learning React Native, and reading EPI Python!";
  };
 };
 ```
