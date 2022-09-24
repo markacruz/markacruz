@@ -1,5 +1,5 @@
 ```javascript
-class MarkAngeloCruz {
+class MarkCruz {
  constructor() {
   this.Age = 20;
   this.Education = "Software Engineering @ McMaster University";
@@ -7,11 +7,12 @@ class MarkAngeloCruz {
                     "Programming", 
                     "Space Exploration", 
                     "Working Out" ];
-  this.Contacts = { contacts:
-                   { personalEmail: "markaycruz@gmail.com", 
+  this.Contacts = { 
+                   contacts: { 
+                     personalEmail: "markaycruz@gmail.com", 
                      schoolEmail: "cruzm9@mcmaster.ca", 
                      linkedIn: "linkedin.com/in/mark-a-cruz" }
                    };
- };
+          };
 };
 ```
